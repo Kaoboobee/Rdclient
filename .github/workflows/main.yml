@@ -1,0 +1,5 @@
+Install-Module -Name PowerShellGet -Force
+Install-Module -Name RDWebClientManagement
+Install-RDWebClientPackage
+Get-RDWebClientPackage
+rd-html 5.0 package version 1.0.0
